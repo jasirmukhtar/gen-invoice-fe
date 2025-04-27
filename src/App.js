@@ -1,11 +1,10 @@
 import './App.css';
-import Home from  './components/Home'
-
-
+import InvoiceForm from  './components/InvoiceForm'
 function App() {
   return (
+
     <div className="App">
-    <Home/>
+    <InvoiceForm />
     </div>
   );
 }
